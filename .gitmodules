@@ -1,0 +1,6 @@
+[submodule "even_glasses_redis_control"]
+	path = even_glasses_redis_control
+	url = https://github.com/emingenc/even_glasses_redis_control.git
+[submodule "LLM_APP"]
+	path = LLM_APP
+	url = https://github.com/emingenc/LLM_APP.git
